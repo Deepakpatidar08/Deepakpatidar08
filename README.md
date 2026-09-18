@@ -2,93 +2,204 @@
 
 NOC Engineer | Networking | VoIP | IT Support
 
-I'm an NOC Engineer with hands-on experience in network operations, VoIP troubleshooting, technical support, ticket management, and system troubleshooting.
+<p align="left">
+  <img src="https://img.shields.io/badge/NOC%20Engineer-111827?style=for-the-badge" alt="NOC Engineer">
+  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge" alt="Networking">
+  <img src="https://img.shields.io/badge/VoIP-059669?style=for-the-badge" alt="VoIP">
+  <img src="https://img.shields.io/badge/IT%20Support-7C3AED?style=for-the-badge" alt="IT Support">
+</p>I'm a NOC Engineer with hands-on experience in network operations, VoIP troubleshooting, technical support, ticket management, and system troubleshooting.
 
-I enjoy investigating technical issues, understanding how systems work, and finding practical solutions to real-world problems.
+I enjoy investigating technical issues, understanding system behavior, and finding practical solutions to real-world problems.
 
 ---
 
 🧑‍💻 About Me
 
 - 💼 Currently working as a NOC Engineer
-- 🌐 Working with Networking & VoIP technologies
-- 📡 Interested in SIP, call flows, and communication systems
+- 🌐 Experience with Networking and VoIP operations
+- 📡 Hands-on exposure to SIP, RTP, SDP, call flows, and troubleshooting
 - 🖥️ Experience with Windows and Linux environments
 - 🎫 Experience with Jira, ticket management, and customer support
 - 🔍 Interested in technical troubleshooting and problem solving
-- 📚 Continuously learning and improving my technical skills
+- 📚 Continuously improving my technical knowledge through practical learning
 
 ---
 
-🛠️ Technical Skills
+💼 Professional Experience
+
+NOC Operations
+
+My current work involves technical monitoring, troubleshooting, ticket handling, and supporting communication systems.
+
+Areas of experience:
+
+- Network and service monitoring
+- VoIP troubleshooting
+- SIP call-flow investigation
+- SIP response-code analysis
+- RTP and SDP troubleshooting
+- Ticket creation and management
+- Customer technical support
+- Remote troubleshooting
+- Incident investigation and escalation
+- Technical documentation
+
+---
 
 🌐 Networking & VoIP
 
-- Network troubleshooting
-- SIP / VoIP troubleshooting
-- RTP and SDP fundamentals
-- SIP response codes
-- Call flow analysis
-- Basic networking concepts
+Networking
 
-🖥️ Systems
+- Basic networking concepts
+- Connectivity troubleshooting
+- Network issue investigation
+- Service availability monitoring
+- Remote troubleshooting
+
+VoIP
+
+- SIP
+- RTP
+- SDP
+- SIP response codes
+- Call flows
+- Codec-related troubleshooting
+- RE-INVITE / UPDATE concepts
+- Call-quality troubleshooting
+
+---
+
+🖥️ Systems & Tools
+
+Operating Systems
 
 - Windows
 - Linux
-- System troubleshooting
-- Remote troubleshooting
 
-🔧 Tools
+Tools & Platforms
 
 - Jira
 - Git
 - GitHub
-- Ticket management
-- Remote support tools
-
----
-
-🚀 Projects
-
-I'm building practical projects to strengthen my technical knowledge and create a hands-on portfolio.
-
-Project| Focus| Status
-🌐 Network Monitoring Tool| Networking & Monitoring| 🔜 Planned
-📡 VoIP Troubleshooting Toolkit| SIP / VoIP| 🔜 Planned
-🖥️ System Monitoring Tool| Linux / System Administration| 🔜 Planned
-🎫 IT Helpdesk System| IT Support / Ticket Management| 🔜 Planned
-
-«Projects will be added here as they are completed and documented.»
+- Ticket Management Systems
+- Remote Support Tools
 
 ---
 
 📚 Currently Learning
 
-- 🐍 Python
-- 🐧 Linux Administration
-- 🌐 Networking
+I'm currently expanding my technical skills beyond day-to-day NOC operations.
+
+- 🐍 Python fundamentals
+- 🐧 Linux administration
+- 🌐 Networking fundamentals
 - ⚙️ Automation
-- ☁️ Cloud Technologies
-- 🚀 DevOps Fundamentals
+- ☁️ Cloud technologies
+- 🚀 DevOps fundamentals
+
+«My goal is to turn what I learn into practical projects rather than only collecting certificates.»
+
+---
+
+🚀 Project Portfolio
+
+I'm building practical projects to demonstrate my technical knowledge and problem-solving ability.
+
+🌐 Network Monitoring Tool
+
+Focus: Networking + Monitoring
+
+Planned features:
+
+- Host availability checks
+- Response-time monitoring
+- Basic network status reporting
+- Simple monitoring dashboard
+- Troubleshooting information
+
+Status: 🔜 Planned
+
+---
+
+📡 VoIP Troubleshooting Toolkit
+
+Focus: SIP + VoIP
+
+Planned features:
+
+- SIP response-code reference
+- SIP troubleshooting checklist
+- RTP / SDP troubleshooting guide
+- Call-flow reference
+- Sample log analysis
+
+Status: 🔜 Planned
+
+---
+
+🖥️ System Monitoring Tool
+
+Focus: Linux + System Administration
+
+Planned features:
+
+- CPU monitoring
+- Memory monitoring
+- Disk monitoring
+- System information
+- Basic alerts
+
+Status: 🔜 Planned
+
+---
+
+🎫 IT Helpdesk System
+
+Focus: IT Support + Ticket Management
+
+Planned features:
+
+- Ticket creation
+- Priority management
+- Status tracking
+- Ticket history
+- Basic dashboard
+
+Status: 🔜 Planned
 
 ---
 
 🎯 Current Focus
 
 - Strengthening networking fundamentals
-- Improving Linux skills
+- Improving Linux knowledge
 - Building practical technical projects
 - Learning Python and automation
 - Exploring cloud technologies
-- Improving troubleshooting and problem-solving skills
+- Developing stronger troubleshooting skills
+- Building a professional technical portfolio
 
 ---
 
-📈 Career Journey
+🧠 My Troubleshooting Approach
 
-NOC Engineer → Technical Specialist → Cloud / DevOps
+Observe → Reproduce → Analyze → Troubleshoot → Resolve → Document → Improve
 
-I'm focused on continuous learning and building practical skills through real-world projects.
+---
+
+📈 Career Growth
+
+NOC Engineer
+
+↓
+
+Advanced Technical / Network Operations
+
+↓
+
+Cloud / DevOps / Automation
+
+«Building the skills step by step through hands-on learning and practical projects.»
 
 ---
 
@@ -99,10 +210,10 @@ I'm focused on continuous learning and building practical skills through real-wo
 
 ---
 
-⚡ My Troubleshooting Approach
+⚡ Personal Philosophy
 
-Observe → Troubleshoot → Understand → Solve → Document → Improve
+«Learn continuously. Troubleshoot patiently. Build practically. Improve consistently.»
 
 ---
 
-⭐ Learning by doing. Building one project at a time.
+⭐ Learning by doing — one project at a time.
