@@ -1,8 +1,8 @@
 👋 Hi, I'm Deepak Patidar
 
-NOC Engineer | Networking & VoIP | IT Support | Technical Troubleshooting
+NOC Engineer | Networking | VoIP | IT Support
 
-I’m a NOC Engineer with hands-on experience in network operations, VoIP troubleshooting, ticket management, and technical support.
+I'm an NOC Engineer with hands-on experience in network operations, VoIP troubleshooting, technical support, ticket management, and system troubleshooting.
 
 I enjoy investigating technical issues, understanding how systems work, and finding practical solutions to real-world problems.
 
@@ -11,11 +11,11 @@ I enjoy investigating technical issues, understanding how systems work, and find
 🧑‍💻 About Me
 
 - 💼 Currently working as a NOC Engineer
-- 🌐 Interested in Networking & VoIP technologies
-- 🖥️ Hands-on experience with Windows & Linux environments
-- 🎫 Experience with Jira, ticket management & customer support
-- 📡 Interested in network and communication troubleshooting
-- 🔍 Enjoy troubleshooting and investigating technical issues
+- 🌐 Working with Networking & VoIP technologies
+- 📡 Interested in SIP, call flows, and communication systems
+- 🖥️ Experience with Windows and Linux environments
+- 🎫 Experience with Jira, ticket management, and customer support
+- 🔍 Interested in technical troubleshooting and problem solving
 - 📚 Continuously learning and improving my technical skills
 
 ---
@@ -24,82 +24,84 @@ I enjoy investigating technical issues, understanding how systems work, and find
 
 🌐 Networking & VoIP
 
-- Network Troubleshooting
-- SIP / VoIP Troubleshooting
-- RTP / SDP Fundamentals
-- SIP Response Codes
-- Call Flow Analysis
-- Basic Network Concepts
+- Network troubleshooting
+- SIP / VoIP troubleshooting
+- RTP and SDP fundamentals
+- SIP response codes
+- Call flow analysis
+- Basic networking concepts
 
 🖥️ Systems
 
 - Windows
 - Linux
-- System Troubleshooting
-- Remote Troubleshooting
+- System troubleshooting
+- Remote troubleshooting
 
-🔧 Tools & Platforms
+🔧 Tools
 
 - Jira
-- Git & GitHub
-- Ticket Management
-- Remote Support Tools
-
-☁️ Currently Exploring
-
-- Python
-- Linux Administration
-- Cloud Technologies
-- Automation
+- Git
+- GitHub
+- Ticket management
+- Remote support tools
 
 ---
 
 🚀 Projects
 
-«Building my technical portfolio with practical projects.»
+I'm building practical projects to strengthen my technical knowledge and create a hands-on portfolio.
 
-Project| Description| Status
-🌐 Network Monitoring Tool| Network connectivity and availability monitoring| 🔜 Planned
-📡 VoIP Troubleshooting Toolkit| SIP / VoIP troubleshooting reference and tools| 🔜 Planned
-🖥️ System Monitoring Tool| Basic system resource monitoring| 🔜 Planned
+Project| Focus| Status
+🌐 Network Monitoring Tool| Networking & Monitoring| 🔜 Planned
+📡 VoIP Troubleshooting Toolkit| SIP / VoIP| 🔜 Planned
+🖥️ System Monitoring Tool| Linux / System Administration| 🔜 Planned
+🎫 IT Helpdesk System| IT Support / Ticket Management| 🔜 Planned
 
-More projects will be added as I build and complete them.
+«Projects will be added here as they are completed and documented.»
 
 ---
 
-📈 My Learning Journey
+📚 Currently Learning
 
-NOC & IT Support
-       │
-       ├── Networking
-       │
-       ├── VoIP
-       │
-       ├── Linux
-       │
-       ├── Troubleshooting
-       │
-       └── Automation & Cloud
-              │
-              ▼
-       Continuous Learning 🚀
+- 🐍 Python
+- 🐧 Linux Administration
+- 🌐 Networking
+- ⚙️ Automation
+- ☁️ Cloud Technologies
+- 🚀 DevOps Fundamentals
 
 ---
 
 🎯 Current Focus
 
-🔹 Strengthening networking fundamentals
-🔹 Improving Linux skills
-🔹 Building practical technical projects
-🔹 Learning automation
-🔹 Exploring cloud technologies
+- Strengthening networking fundamentals
+- Improving Linux skills
+- Building practical technical projects
+- Learning Python and automation
+- Exploring cloud technologies
+- Improving troubleshooting and problem-solving skills
 
 ---
 
-🤝 Let's Connect
+📈 Career Journey
 
+NOC Engineer → Technical Specialist → Cloud / DevOps
+
+I'm focused on continuous learning and building practical skills through real-world projects.
+
+---
+
+🤝 Connect With Me
+
+- 💻 GitHub: "Deepakpatidar08" (https://github.com/Deepakpatidar08)
 - 💼 LinkedIn: Coming soon
-- 📧 Email: Available on request
+
+---
+
+⚡ My Troubleshooting Approach
+
+Observe → Troubleshoot → Understand → Solve → Document → Improve
 
 ---
 
